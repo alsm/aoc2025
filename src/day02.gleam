@@ -1,6 +1,5 @@
 import gleam/int
 import gleam/list
-import gleam/regexp
 import gleam/string
 
 pub fn part1(input: String) {
